@@ -26,7 +26,7 @@ A use-case diagram is a type of [[Unified Modelling Language (UML)]] diagram tha
 
 - **[[Primary actor]]s** are placed on the left side of the system boundary.
 - **[[Secondary actor]]s** are placed on the right side.
-- **[[Offstage actors]]** are often placed at the bottom or away from the main actors (sometimes with a dashed line to show indirect involvement).
+- **[[Offstage actor]]s** are often placed at the bottom or away from the main actors (sometimes with a dashed line to show indirect involvement).
 
 ## Connections
 

@@ -11,8 +11,6 @@ The glossary can include definitions of technical terms business jargon acronyms
 Keeping the glossary up to date is important as new terms may arise during the project
 
 A clear glossary supports better collaboration and shared understanding across diverse teams
-
-Here is an example for the Glossary section in your style to add to [[Lecture 4]]:
 ### Glossary Example
 
 | Term           | Definition                                                                 |
@@ -45,35 +43,25 @@ Maintaining a supplementary specification helps ensure all aspects of the system
 ---
 ## Business Rules
 
-Business rules are statements that provide the criteria and conditions for making a decision
+Business rules are statements that provide the criteria and conditions for making decisions. They define how things should be done or interpreted within the business context.
 
-They define how things should be done or interpreted in the business context
+These rules capture policies, constraints, calculations, and definitions that govern the business. They help ensure consistency and correctness in business processes and decisions.
 
-Business rules capture policies constraints calculations and definitions that govern the business
+Business rules focus on the business logic and are independent of software implementation. Although they are not part of the software requirements, they influence how the software should behave.
 
-They help ensure consistency and correctness in business processes and decisions
+Understanding business rules is important for designing systems that align with business needs. They can range from simple definitions to complex conditions involving multiple factors.
 
-Business rules are independent of software implementation and focus on the business logic
-
-They are not part of the software requirements but influence how the software should behave
-
-Understanding business rules is important for designing systems that align with business needs
-
-Business rules can be simple definitions or complex conditions involving multiple factors
-
-They often come from domain experts business analysts or regulatory requirements
+Typically, business rules come from domain experts, business analysts, or regulatory requirements.
 
 ### Example  
-"Net sale is defined as the total sales price of an order before discounts allowances shipping and other charges"
+"Net sale is defined as the total sales price of an order before discounts, allowances, shipping, and other charges."
 
-Other examples of business rules include  
-- Customers must be at least 18 years old to register  
-- Orders over 1000 dollars require manager approval  
-- Returns are accepted within 30 days of purchase  
+Other examples of business rules include:  
+- Customers must be at least 18 years old to register.  
+- Orders over 1000 dollars require manager approval.  
+- Returns are accepted within 30 days of purchase.
 
-Documenting business rules separately helps clarify what the business expects without mixing them with technical details
-
-This separation supports better communication between business stakeholders and development teams
+Documenting business rules separately helps clarify what the business expects without mixing them with technical details. This separation supports better communication between business stakeholders and development teams.
 
 ---
 # Risk Management

@@ -72,19 +72,19 @@ Use-cases can be documented at varying levels of detail depending on the audienc
 
 ### Fully Dressed Use Case Explained
 
-| Section | Meaning |
-|---------|---------|
-| Use Case | The main process or task being described |
-| Basic Information | High level details about scope level and primary actor |
-| Stakeholders and Interests | People or organizations involved and what they want from the process |
-| Preconditions | Conditions that must be true before the use case starts |
-| Success Guarantee (Postconditions) | Outcomes that must be achieved if the use case completes successfully |
-| Main Success Scenario (Basic Flow) | Step by step description of the normal path from start to finish |
-| Extensions (Alternative Flows) | Optional or exceptional paths that can occur during the main flow |
-| Special Requirements | Specific technical or business needs that must be met |
-| Technology and Data Variations List | Different ways technology or data may be handled |
-| Frequency of Occurrence | How often this use case is expected to happen |
-| Open Issues | Questions or uncertainties that need further clarification |
+| Section                             | Meaning                                                               |
+| ----------------------------------- | --------------------------------------------------------------------- |
+| Use Case                            | The main process or task being described                              |
+| Basic Information                   | High level details about scope level and primary actor                |
+| Stakeholders and Interests          | People or organizations involved and what they want from the process  |
+| Preconditions                       | Conditions that must be true before the use case starts               |
+| Success Guarantee (Postconditions)  | Outcomes that must be achieved if the use case completes successfully |
+| Main Success Scenario (Basic Flow)  | Step by step description of the normal path from start to finish      |
+| Extensions (Alternative Flows)      | Optional or exceptional paths that can occur during the main flow     |
+| Special Requirements                | Specific technical or business needs that must be met                 |
+| Technology and Data Variations List | Different ways technology or data may be handled                      |
+| Frequency of Occurrence             | How often this use case is expected to happen                         |
+| Open Issues                         | Questions or uncertainties that need further clarification            |
 
 ### Example Brief Use Case
 

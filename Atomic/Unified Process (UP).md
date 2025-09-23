@@ -7,7 +7,7 @@ UP is both **iterative** (repeats over time) and **incremental** (builds fea
 3. [[Construction]]
 4. [[Transition]]
 
-![UP Resources and Time Diagram.png](app://59384ae60b4547d599cced7dbad52655660e/Users/lasse/Documents/DTU/Development%20Methods%20for%20IT%20Systems/DMITS%20Notes/Figures/UP%20Resources%20and%20Time%20Diagram.png?1756814930751)
+![[UP Resources and Time Diagram.png]]
 
 - [[Construction]] is the longest phase, where most programming happens.
 - Activities like business modelling and requirements gathering are most intense in the early phases and taper off later.
@@ -38,4 +38,4 @@ Phases are not repeated within one iteration.
 - You can’t deploy before transition.
 - You can’t construct before elaboration.
 
-![UP Phases.png](app://59384ae60b4547d599cced7dbad52655660e/Users/lasse/Documents/DTU/Development%20Methods%20for%20IT%20Systems/DMITS%20Notes/Figures/UP%20Phases.png?1756815818064)
+![[UP Phases.png | center | 700]]
