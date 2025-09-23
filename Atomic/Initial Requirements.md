@@ -29,7 +29,7 @@ Initial requirements focus on the most important and highest-risk functionality 
 ### Project Planning
 - **Resource estimation** - What skills, people, and technology will be needed?
 - **Timeline estimation** - How long might this project take?
-- **Risk identification** - What are the biggest challenges and unknowns?
+- **[[Risk identification]]** - What are the biggest challenges and unknowns?
 - **Architecture planning** - What are the major architectural implications?
 
 ## Content of Initial Requirements

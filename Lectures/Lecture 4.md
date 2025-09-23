@@ -337,7 +337,7 @@ Artifacts created during elaboration provide detailed guidance for the developme
 - [[Architecture Model]]
 - [[Use-case Model]]
 - [[Domain Model]]
-- [[Risk Mitigation Plan]]
+- [[Risk Planning]]
 - [[Iteration Plan]]
 - [[Prototypes or Proofs of Concept]]
 

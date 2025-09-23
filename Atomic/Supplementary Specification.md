@@ -156,7 +156,7 @@ Priority: Must Have
 - **Documentation** of constraints and limitations
 
 ### for Project Management
-- **Risk identification** related to non-functional requirements
+- **[[Risk identification]]** related to non-functional requirements
 - **Resource planning** for performance, security, and other quality work
 - **Scope management** by clearly defining system boundaries and constraints
 - **Quality assurance** planning and testing strategies

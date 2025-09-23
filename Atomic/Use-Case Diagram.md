@@ -9,7 +9,7 @@ A use-case diagram is a type of [[Unified Modelling Language (UML)]] diagram tha
 
 ## Key Elements
 
-- **[[Actors]]:**  
+- **[[Actor]]s:**  
   Shown as stick figures outside the system boundary. Actors can be people, organisations, or external systems that interact with your system.
 - **[[Use Case]]s:**  
   Shown as ovals inside the system boundary. Each use-case represents a specific function or goal the system provides.

@@ -11,7 +11,7 @@ The inception phase is the initial stage of a project typically lasting 1–2 
 - Gather and document initial requirements (about 10–20% of [[functional requirements]]).
 - Identify stakeholders and their needs.
 - Define the main goals and purpose of the project.
-- Create essential artifacts (such as [[Vision]], [[Business Case]], [[Stakeholder List]], [[Risk Assessment]]).
+- Create essential artifacts (such as [[Vision]], [[Business Case]], [[Stakeholder List]], [[Risk Analysis]].
 
 ## Outcomes
 

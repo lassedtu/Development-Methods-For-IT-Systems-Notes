@@ -7,7 +7,7 @@ Construction continues until the system is ready for deployment to end users
 ## Key Goals
 
 - Develop the complete system functionality iteratively
-- Minimize development costs through efficient resource management
+- Minimise development costs through efficient resource management
 - Achieve adequate quality through rigorous testing
 - Complete all remaining features and requirements
 - Prepare for system deployment and user training

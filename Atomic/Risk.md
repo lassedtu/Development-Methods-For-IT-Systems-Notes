@@ -22,6 +22,7 @@ There are three main types of risks to consider:
 
 ## Related Concepts
 
+- [[Risk Identification]] - Systematically recognising and documenting potential risks
 - [[Risk Strategies]] - Approaches to handle identified risks
 - [[Risk Planning]] - Developing approaches to deal with risks before they occur
 - [[Risk Monitoring]] - Continuous process of checking risk assumptions
