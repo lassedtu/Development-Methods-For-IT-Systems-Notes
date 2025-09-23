@@ -17,4 +17,4 @@ A business case is an artifact created during the inception phase that explain
 
 ## Context
 
-The business case is one of the key artifacts in the [[inception]] phase. It is used alongside the [[Vision Statement]] and other inception artifacts to decide whether to proceed with the project.
+The business case is one of the key artifacts in the [[inception]] phase. It is used alongside the [[Vision]] and other inception artifacts to decide whether to proceed with the project.

@@ -8,13 +8,13 @@ An actor is a person, group, or external system that interacts with a system b
 
 ## Types of Actors
 
-- **Primary Actor:**  
+- **[[Primary Actor]]:**  
     The main user or system that initiates interactions to achieve a goal (e.g., a customer placing an order).
 
-- **Secondary Actor:**  
+- **[[Secondary Actor]]:**  
     Supports the system or helps the primary actor, often providing a service or information (e.g., a payment gateway, a database).
 
-- **Offstage (Tertiary) Actor:**  
+- **[[Offstage Actor]]:**  
     Does not interact directly with the system but is affected by its outcome or has an interest in it (e.g., a manager who receives reports, a government agency monitoring compliance).
 ![[Types of Actors.png | center]]
 

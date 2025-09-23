@@ -8,7 +8,7 @@ You try to establish a common vision and scope for the product.
 Artifacts are the important documents and notes created during the inception phase. They show what the project is about, who is involved, and what needs to be done. These help everyone understand and agree on the project before it really starts.
 
 ### Examples of Artifacts
-- [[Vision Statement]]
+- [[Vision]]
 - [[Business Case]]
 - [[Stakeholder List]]
 - [[Initial requirements]]

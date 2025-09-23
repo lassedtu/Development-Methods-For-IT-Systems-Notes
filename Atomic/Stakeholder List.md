@@ -26,4 +26,4 @@ A stakeholder list is an artifact created during the [[inception]] phase that 
 
 ## Context
 
-The stakeholder list is a key artifact in the inception phase. It is used alongside the [[Vision Statement]], [[Business Case]], and other inception artifacts to make sure that all perspectives are considered from the start.
+The stakeholder list is a key artifact in the inception phase. It is used alongside the [[Vision]], [[Business Case]], and other inception artifacts to make sure that all perspectives are considered from the start.

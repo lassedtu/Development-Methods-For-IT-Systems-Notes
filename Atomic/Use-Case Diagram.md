@@ -9,24 +9,24 @@ A use-case diagram is a type of [[Unified Modelling Language (UML)]] diagram tha
 
 ## Key Elements
 
-- **Actors:**  
+- **[[Actors]]:**  
   Shown as stick figures outside the system boundary. Actors can be people, organisations, or external systems that interact with your system.
-- **Use-Cases:**  
+- **[[Use Case]]s:**  
   Shown as ovals inside the system boundary. Each use-case represents a specific function or goal the system provides.
-- **System Boundary:**  
+- **[[System Boundary]]:**  
   Drawn as a rectangle that contains all the use-cases. The system’s name is usually written at the top.
 
 ## Stereotypes
 
-- Stereotypes clarify the type of actor (human, system, organisation).
+- [[Stereotypes]] clarify the type of actor (human, system, organisation).
 - Written as `<<Stereotype>>` above the actor’s name.
     - Example: `<<human>>` Customer, `<<system>>` Payment Gateway, `<<organization>>` School
 
 ## Placement of Actors
 
-- **Primary actors** are placed on the left side of the system boundary.
-- **Secondary actors** are placed on the right side.
-- **Offstage (tertiary) actors** are often placed at the bottom or away from the main actors (sometimes with a dashed line to show indirect involvement).
+- **[[Primary actor]]s** are placed on the left side of the system boundary.
+- **[[Secondary actor]]s** are placed on the right side.
+- **[[Offstage actors]]** are often placed at the bottom or away from the main actors (sometimes with a dashed line to show indirect involvement).
 
 ## Connections
 
