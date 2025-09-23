@@ -217,7 +217,7 @@ See also: [[My Questions]] about risk assessment.
 - **Use descriptive filenames** that won't conflict with course material
 - **Regular commits** help track your learning progress
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 📁 Repository/
