@@ -6,15 +6,15 @@ The notes are organised into interconnected atomic concepts that build upon each
 
 ## Table of Contents
 
-- [[#getting started|Getting Started]]
-- [[#setup instructions|Setup Instructions]]
-  - [[#macOS|macOS]]
-  - [[#Windows|Windows]]
-  - [[#Linux|Linux]]
-- [[#Keeping Your Vault Updated|Keeping Your Vault Updated]]
-- [[#Adding Your Own Notes|Adding Your Own Notes]]
-- [[#Repository Structure|Repository Structure]]
-- [[#Contributing|Contributing]]
+- [Getting Started](#getting-started)
+- [Setup Instructions](#setup-instructions)
+    - [macOS](#macos)
+    - [Windows](#windows)
+    - [Linux](#linux)
+- [Keeping Your Vault Updated](#keeping-your-vault-updated)
+- [Adding Your Own Notes](#adding-your-own-notes)
+- [Repository Structure](#repository-structure)
+- [Contributing](#contributing)
 
 ## Getting Started
 
