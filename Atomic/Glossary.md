@@ -164,7 +164,7 @@ For complex projects requiring more information:
 - Reference glossary terms in [[Use Case]] descriptions
 
 ### [[Domain Model]]
-- Use glossary definitions to guide domain class identification
+- Use glossary definitions to guide domain [[Class]] identification
 - Ensure class names and attributes align with business terminology
 - Validate [[Domain Model]] against glossary definitions
 

@@ -10,7 +10,7 @@ Two main groups of diagrams:
 - **Sequence / Interaction Diagram** → flow of messages between objects.  
 ![[Sequence Diagram.png]]
 
-- **Class Diagram** → shows class structure and relations, can be translated directly into code.  
+- **Class Diagram** → shows [[Class]] structure and relations, can be translated directly into code.  
 ![[Class Diagram.png]]
 
 - **Domain Model** → visualises real-world concepts, less code-oriented.  

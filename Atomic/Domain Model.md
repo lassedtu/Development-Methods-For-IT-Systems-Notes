@@ -1,4 +1,4 @@
-A domain model is a visual representation of the conceptual classes, attributes, and relationships in the problem domain
+A domain model is a visual representation of the conceptual [[Class]]es, attributes, and relationships in the problem domain
 
 It shows the real-world concepts and their relationships that are important for understanding the business or problem area
 
@@ -14,10 +14,10 @@ Domain models help bridge the gap between business understanding and software de
 
 ## Key Elements
 
-### Conceptual Classes
+### Conceptual [[Class]]es
 - Represent real-world things, concepts, or ideas
 - Examples: Customer, Order, Product, Account, Invoice
-- Shown as boxes with class names
+- Shown as boxes with [[Class]] names
 
 ### Attributes
 - Properties or characteristics of conceptual classes
@@ -38,16 +38,25 @@ Domain models help bridge the gap between business understanding and software de
 ## Examples by Domain
 
 ### Library Domain
+
+![[Library Domain Model.png | center ]]
+
 - **Classes**: Member, Book, Loan, Author, Category
 - **Relationships**: Member borrows Book, Book written by Author
 - **Attributes**: Member ID, Book ISBN, Loan date
 
 ### Hospital Domain  
+
+![[Hospital Domain Model.png | center ]]
+
 - **Classes**: Patient, Doctor, Appointment, Treatment, Room
 - **Relationships**: Patient has Appointment with Doctor
 - **Attributes**: Patient name, Doctor specialization, Appointment time
 
 ### E-commerce Domain
+
+![[Ecommerce Domain Model.png | center ]]
+
 - **Classes**: Customer, Order, Product, Payment, ShoppingCart
 - **Relationships**: Customer places Order containing Products
 - **Attributes**: Customer email, Product price, Order total
