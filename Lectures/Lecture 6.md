@@ -54,7 +54,7 @@ end while
 Display all user’s details
 ```
 
-![[Activity Diagram Loop.png | 600 | center]]
+![[Activity Diagram Loop.png | center | 600]]
 
 ## Start
 A start shows where the process or activity begins. It marks the first step in the flow.
