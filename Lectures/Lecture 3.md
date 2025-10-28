@@ -48,7 +48,7 @@ Association represents a connection or link between two actors or between an act
 
 For example in [UC1 Get Movie Tickets](app://obsidian.md/index.html#UC1%20Get%20Movie%20Tickets), the User has an association with the use case because they perform actions like selecting movies and making payments. The Payment System also has an association because it processes the payment when the user completes the purchase.
 
-![[Association.png | center | 600]]
+![[Figures/Association.png| center | 600]]
 
 ## Multiplicity
 The picture shows a User connected to a use case called "Play Game" by a line. At the User end of the line there is a multiplicity of `2..*` and at the Play Game end there is a `1`. This means that each instance of the Play Game use case involves two or more Users participating together. In other words the game requires at least two users to play. On the other hand each User can be associated with one instance of the Play Game at a time. This example illustrates how multiplicity specifies the number of actors and use case instances that can be linked in a relationship.
